@@ -1,0 +1,16 @@
+{
+  "wheel_id": 9,
+  "slug": "melbourne-east-kitchen-renovations-mr-150",
+  "project": "kitchen-renovation-melbourne-east-guide",
+  "parent_t1_ref": "melbourne-east-kitchen-renovations-mr",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovation melbourne east",
+  "intended_url": "https://kitchen-renovation-melbourne-east-guide.netlify.app",
+  "links": [
+    {
+      "target_url": "https://pressranger.com/media-rooms/melbourne-east-kitchen-renovations",
+      "anchor": "trades",
+      "rel": "follow"
+    }
+  ]
+}

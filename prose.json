@@ -1,0 +1,190 @@
+{
+  "kicker": "Kitchen Renovation Guide",
+  "h1_tail": "A Practical Homeowner Guide",
+  "meta_hook": "what to plan, budget and ask before hiring a kitchen renovation team",
+  "takeaway": "A successful kitchen renovation in Melbourne's eastern suburbs starts with a clear layout plan, a realistic budget and a shortlist of qualified trades. Most homeowners begin by deciding whether they need a full strip-out or a cosmetic refresh, then they compare cabinetry, benchtops and appliance packages before requesting fixed-price quotes from local builders. Checking prior work, written warranties and scheduling helps avoid the common delays that turn a four-week project into a months-long inconvenience. The broader trades context for this area is summarised in the parent overview on trades, which covers the team structure behind a typical kitchen renovation.",
+  "lead_tail": "need careful planning if the finished space is to stay functional and on budget.",
+  "stats": [
+    {
+      "value": "3-6",
+      "label": "weeks typical project span"
+    },
+    {
+      "value": "100%",
+      "label": "fixed-quote requests recommended"
+    },
+    {
+      "value": "2+",
+      "label": "compliance checks before work starts"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What the project usually involves",
+      "html": "<p>Most kitchen renovations in this part of Melbourne follow a similar path. The existing cabinetry, benchtops and appliances come out, the plumbing and electrical services are capped or relocated, and the new layout is built from the floor up. The work can include flooring, tiling, lighting, painting and ventilation, so it is normal for a single kitchen job to pull in several licensed trades at once. The range of trades required is one reason why the local trades overview is a useful starting point for anyone new to renovation project management.</p><p>Homeowners often start with a wish list: more storage, better workflow, durable surfaces and a look that suits the rest of the house. Translating that list into a working plan means measuring the room accurately, choosing materials that fit the budget, and deciding which items can be reused and which must be replaced. It also means being honest about how the kitchen is used. A household that cooks every day needs different priorities from one that mostly uses the kitchen for coffee and weekend meals.</p><p>Once the scope is clear, the next step is to produce a simple scaled plan. Many builders accept a hand-drawn sketch with dimensions, but a more detailed plan reduces confusion later. The plan should show the position of the sink, cooktop, fridge, bench space and any island or breakfast bar. It should also note the location of windows, doors and power points, because these often determine where major items can sit.</p>"
+    },
+    {
+      "h2": "Budgeting without guesswork",
+      "html": "<p>Budgeting works best when the quote is split into clear categories: demolition, cabinetry, benchtops, appliances, plumbing, electrical, tiling and finishing trades. A fixed-price contract reduces the risk of mid-project cost shocks, but it only works if the scope is locked in before work begins. Any changes to layout, materials or appliance models after that point usually attract variation fees.</p><p>Most experienced renovators recommend keeping a contingency of at least ten to fifteen percent for hidden issues such as water damage, asbestos or outdated wiring. It is also worth asking whether the builder handles council compliance, because some structural or plumbing changes require sign-off. The Housing Industry Association notes that using a properly contracted builder with the right domestic licence is one of the simplest ways to protect a renovation investment.</p><p>Payment terms should be written into the contract. Avoid builders who demand the full amount upfront. A common schedule is a small deposit, progress payments tied to stages, and a final payment only after practical completion. This structure keeps both parties aligned and gives the homeowner leverage if defects appear at the end of the job.</p>"
+    },
+    {
+      "h2": "Choosing the right team",
+      "html": "<p>The builder or project coordinator should be licensed, insured and able to show examples of recently completed kitchens in the eastern suburbs. References, site visits to past jobs and a written warranty all help separate a professional operation from a casual handyman. Ask how the builder handles delays: who orders the appliances, who manages the trades, and what happens if a cabinet shipment runs late?</p><p>It is also sensible to confirm that the plumber and electrician hold current Victorian licences, because the kitchen is one of the most regulated rooms in the house. Gas cooktops, rangehoods and power outlets all need to meet the current standards. The Master Builders Australia website provides guidance on engaging builders and understanding contract terms before signing.</p><p>Communication style matters too. A builder who responds quickly during the quoting phase is usually easier to deal with during the build. Ask whether the same person will be on site each day and how often they will provide progress updates. A single point of contact reduces the risk of miscommunication between the homeowner and the various trades.</p>"
+    },
+    {
+      "h2": "Timeline and disruption",
+      "html": "<p>A straightforward kitchen renovation typically takes between three and six weeks from demolition to handover, assuming materials arrive on schedule. The demolition and rough-in phase is usually the noisiest and dustiest, while the install phase is more about precision and finishing. Homeowners should plan a temporary kitchen elsewhere in the house, because even a fast project leaves the room out of action for several weeks.</p><p>Good communication is what keeps the timeline tight. A weekly site meeting or a shared project board helps everyone see what is happening next. If the project includes custom joinery, add extra time for manufacturing and delivery. For readers who want to see how the local trades layer fits into the broader picture, the parent overview on <a href=\"https://pressranger.com/media-rooms/melbourne-east-kitchen-renovations\">trades</a> covers the team structure behind a kitchen renovation in this area.</p><p>Delays are rarely caused by a single big problem. More often they come from a chain of small issues: a late appliance, a missing tile batch, a trade waiting for another trade to finish. Building buffer days into the schedule and ordering long-lead items early are the two best defences against this.</p>"
+    },
+    {
+      "h2": "Who this guide is for",
+      "html": "<p>This guide is written for homeowners in Melbourne's eastern suburbs who are thinking about a kitchen renovation but have not yet locked in a builder. It is also useful for anyone comparing a full renovation against a smaller refresh, or for owners who need to coordinate a kitchen job with a bathroom or laundry upgrade at the same time. The advice is general and independent, and it is not a substitute for a site-specific quote from a licensed builder.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Kitchen renovation planning checklist",
+    "headers": [
+      "Stage",
+      "What to lock in",
+      "Typical focus"
+    ],
+    "rows": [
+      [
+        "Design",
+        "Layout, materials, appliances",
+        "Function and budget alignment"
+      ],
+      [
+        "Quote",
+        "Fixed price, scope, exclusions",
+        "Cost certainty"
+      ],
+      [
+        "Compliance",
+        "Plumbing, electrical, gas",
+        "Licences and sign-offs"
+      ],
+      [
+        "Build",
+        "Trades schedule, inspections",
+        "Quality and timeline control"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the room",
+      "text": "Record wall lengths, ceiling height, window positions and existing service points."
+    },
+    {
+      "name": "Set a realistic budget",
+      "text": "Include materials, labour, appliances, contingencies and a small buffer for variations."
+    },
+    {
+      "name": "Shortlist builders",
+      "text": "Request at least three written quotes from licensed renovators with local kitchen experience."
+    },
+    {
+      "name": "Check compliance needs",
+      "text": "Ask whether plumbing, electrical or structural changes need council or building surveyor approval."
+    },
+    {
+      "name": "Plan for disruption",
+      "text": "Set up a temporary kitchen and confirm the project schedule before demolition starts."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need council approval for a kitchen renovation in Melbourne?",
+      "a": "Not every kitchen renovation needs council approval, but structural, plumbing or window changes may need a building permit or plumbing compliance certificate. A licensed builder can advise on what applies to your specific job."
+    },
+    {
+      "q": "How long does a typical kitchen renovation take?",
+      "a": "A standard kitchen renovation usually takes three to six weeks once demolition starts, but custom joinery or material delays can extend the schedule."
+    },
+    {
+      "q": "What should I ask for in a quote?",
+      "a": "Ask for a fixed-price quote that breaks out demolition, cabinetry, benchtops, appliances, trades and finishing work, plus any exclusions or provisional sums."
+    }
+  ],
+  "about": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A kitchen renovation typically involves removing existing cabinetry, benchtops and appliances, then relocating or capping services before installing the new layout.",
+      "source": "money page"
+    },
+    {
+      "claim": "A fixed-price contract reduces the risk of mid-project cost shocks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Most experienced renovators recommend keeping a contingency of at least ten to fifteen percent for hidden issues.",
+      "source": "https://moneysmart.gov.au"
+    },
+    {
+      "claim": "Licensed plumbers and electricians must hold current Victorian licences for kitchen gas, electrical and plumbing work.",
+      "source": "https://hia.com.au"
+    },
+    {
+      "claim": "A straightforward kitchen renovation typically takes between three and six weeks from demolition to handover.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers planning, budgeting, builder selection and scheduling for homeowners considering a kitchen renovation in Melbourne's eastern suburbs."
+}
